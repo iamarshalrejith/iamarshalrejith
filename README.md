@@ -1,14 +1,8 @@
 <div align="center">
-  <img src="./header.svg" width="100%" alt="Arshal Rejith" />
+  <img src="./hero.svg" width="100%" alt="Arshal Rejith" />
 </div>
 
----
-
 <div align="center">
-
-### ✦ &nbsp; Turning ideas into real-world products &nbsp; ✦
-
-*Full Stack Engineer focused on clean code, scalable systems, and shipping things that matter.*
 
 [![Email](https://img.shields.io/badge/iamarshalrejith%40gmail.com-0D0D0D?style=flat-square&logo=gmail&logoColor=C9A84C)](mailto:iamarshalrejith@gmail.com)
 &nbsp;
@@ -16,14 +10,6 @@
 &nbsp;
 ![Profile Views](https://komarev.com/ghpvc/?username=iamarshalrejith&style=flat-square&color=C9A84C&label=profile+views)
 
-</div>
-
----
-
-## &nbsp;◈&nbsp; About Me
-
-<div align="center">
-  <img src="./about.svg" width="100%" alt="About Arshal Rejith" />
 </div>
 
 ---
@@ -104,7 +90,13 @@
 
 </div>
 
+## &nbsp;◈&nbsp; GitHub Trophies
 
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=iamarshalrejith&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1)](https://github.com/iamarshalrejith)
+
+</div>
 
 ---
 
