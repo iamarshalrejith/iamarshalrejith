@@ -104,22 +104,24 @@ const arshal = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=iamarshalrejith&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=iamarshalrejith&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamarshalrejith&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamarshalrejith&theme=dark&hide_border=true&layout=compact&langs_count=8" />
 
-<br/>
+</div>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamarshalrejith&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=iamarshalrejith&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 
 </div>
 
 ---
 
-## &nbsp;◈&nbsp; Top Contributed Repos
+## &nbsp;◈&nbsp; Contribution Graph
 
 <div align="center">
 
-![](https://github-contributor-stats.vercel.app/api?username=iamarshalrejith&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iamarshalrejith&theme=github-compact&hide_border=true&area=true)](https://github.com/iamarshalrejith)
 
 </div>
 
