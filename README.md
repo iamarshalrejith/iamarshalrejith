@@ -10,7 +10,7 @@
 
 *Full Stack Engineer focused on clean code, scalable systems, and shipping things that matter.*
 
-[![Email](https://img.shields.io/badge/✉%20iamarshalrejith%40gmail.com-B8963A?style=flat-square&logoColor=black)](mailto:iamarshalrejith@gmail.com)
+[![Email](https://img.shields.io/badge/✉%20iamarshalrejith%40gmail.com-0D0D0D?style=flat-square&logo=gmail&logoColor=C9A84C)](mailto:iamarshalrejith@gmail.com)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/github-iamarshalrejith-0D0D0D?style=flat-square&logo=github&logoColor=white)](https://github.com/iamarshalrejith)
 &nbsp;
