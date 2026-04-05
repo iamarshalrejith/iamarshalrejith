@@ -24,25 +24,15 @@
 
 </div>
 
+---
+
 ## &nbsp;◈&nbsp; About Me
 
 <div align="center">
-
-✦ &nbsp; *Building scalable products, not just projects* &nbsp; ✦
-
+  <img src="./about.svg" width="100%" alt="About Arshal Rejith" />
 </div>
 
 ---
-
-### ⚜️ Craft
-- Building **full stack applications** that scale  
-- Focused on **performance, architecture, and usability**  
-- Turning ideas into **production-ready products**
-
-### ⚜️ Growth
-- Learning **System Design & DSA**  
-- Exploring **AI-powered applications**  
-- Improving depth in engineering
 
 ## &nbsp;◈&nbsp; Tech Stack
 
@@ -120,7 +110,15 @@
 
 </div>
 
+## &nbsp;◈&nbsp; GitHub Trophies
 
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=iamarshalrejith&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1)](https://github.com/iamarshalrejith)
+
+</div>
+
+---
 
 ## &nbsp;◈&nbsp; Contribution Graph
 
