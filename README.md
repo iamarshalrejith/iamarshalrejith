@@ -118,8 +118,4 @@
 
 </div>
 
----
 
-<div align="center">
-  <img src="./footer.svg" width="100%" alt="footer" />
-</div>
