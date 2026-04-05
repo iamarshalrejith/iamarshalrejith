@@ -23,36 +23,38 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=iamarshalrejith&style=flat-square&color=C9A84C&label=profile+views)
 
 </div>
----
-## ◈ About Me
 
-<p align="center">
-  <i>Building scalable products, not just projects.</i>
-</p>
+## &nbsp;◈&nbsp; About Me
 
-<br>
+<div align="center">
 
-- 🚀 **What I Do**  
-  I design and build full stack applications with a strong focus on performance, scalability, and real-world usability.
+✦ &nbsp; *Building scalable products, not just projects* &nbsp; ✦
 
-- 🧠 **Current Focus**  
-  Deep diving into **System Design**, **DSA**, and **AI-powered applications** to build smarter systems.
-
-- 🤝 **Collaboration**  
-  Open to working on impactful **web platforms**, **mobile apps**, and **AI-driven products**.
-
-- 💬 **Core Stack**  
-  React · Next.js · Node.js · TypeScript · AI Integrations
-
-<br>
-
-<p align="center">
-  ⚡ <b>Philosophy</b> — Clean code, scalable thinking, fast execution  
-  <br>
-  🎯 <b>Goal</b> — Turn ideas into production-ready products
-</p>
+</div>
 
 ---
+
+### ⚜️ Craft
+- Building **full stack applications** that scale  
+- Focused on **performance, architecture, and usability**  
+- Turning ideas into **production-ready products**
+
+### ⚜️ Growth
+- Learning **System Design & DSA**  
+- Exploring **AI-powered applications**  
+- Improving depth in engineering
+
+### ⚜️ Stack
+React · Next.js · Node.js · TypeScript · AI Systems
+
+---
+
+<div align="center">
+
+⚡ **Philosophy** — Clean code · Scalable thinking · Fast execution  
+🎯 **Goal** — Turn ideas into real-world products
+
+</div>
 
 ## &nbsp;◈&nbsp; Tech Stack
 
