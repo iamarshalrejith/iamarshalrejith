@@ -104,12 +104,12 @@ const arshal = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=iamarshalrejith&show_icons=true&theme=graywhite&hide_border=true&include_all_commits=true&count_private=true&bg_color=FAFAF8&title_color=8B6914&text_color=0D0D0D&icon_color=C9A84C&border_radius=6" />
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=iamarshalrejith&theme=graywhite&hide_border=true&background=FAFAF8&ring=C9A84C&fire=8B6914&currStreakLabel=8B6914&border_radius=6" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=iamarshalrejith&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=iamarshalrejith&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamarshalrejith&theme=graywhite&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=FAFAF8&title_color=8B6914&text_color=0D0D0D&border_radius=6" />
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamarshalrejith&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 
 </div>
 
@@ -119,7 +119,7 @@ const arshal = {
 
 <div align="center">
 
-![](https://github-contributor-stats.vercel.app/api?username=iamarshalrejith&limit=5&theme=flat&combine_all_yearly_contributions=true&hide_border=true&bg_color=FAFAF8&title_color=8B6914&text_color=0D0D0D)
+![](https://github-contributor-stats.vercel.app/api?username=iamarshalrejith&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true)
 
 </div>
 
