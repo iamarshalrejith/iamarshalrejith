@@ -1,11 +1,5 @@
 <div align="center">
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        HEADER BANNER                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=C9A84C&height=200&section=header&text=Arshal%20Rejith&fontSize=60&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20AI%20Integrations%20%7C%20Builder&descAlignY=58&descAlign=50&fontColor=FAF8F2&descColor=FAF8F2)
-
+  <img src="./header.svg" width="100%" alt="Arshal Rejith" />
 </div>
 
 ---
@@ -141,9 +135,5 @@
 ---
 
 <div align="center">
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=C9A84C&height=100&section=footer&fontColor=FAF8F2)
-
-*"Code is not just instructions for machines — it's a craft, a reflection of how precisely you can think."*
-
+  <img src="./footer.svg" width="100%" alt="footer" />
 </div>
