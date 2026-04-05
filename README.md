@@ -4,7 +4,7 @@
 <!--                        HEADER BANNER                          -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=C9A84C&height=200&section=header&text=Arshal%20Rejith%20S&fontSize=60&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20AI%20Integrations%20%7C%20Builder&descAlignY=58&descAlign=50&fontColor=FAF8F2&descColor=FAF8F2)
+![header](https://capsule-render.vercel.app/api?type=waving&color=C9A84C&height=200&section=header&text=Arshal%20Rejith&fontSize=60&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20AI%20Integrations%20%7C%20Builder&descAlignY=58&descAlign=50&fontColor=FAF8F2&descColor=FAF8F2)
 
 </div>
 
@@ -28,17 +28,35 @@
 
 ## &nbsp;◈&nbsp; About Me
 
-```ts
-const arshal = {
-  role        : "Full Stack Engineer",
-  focus       : ["Clean Code", "Scalable Systems", "Shipping Products"],
-  currentWork : "Full Stack projects & real-world applications",
-  learning    : ["Data Structures & Algorithms", "System Design", "AI Integrations"],
-  collaborate : ["Web / App Development", "AI-based Projects"],
-  askMeAbout  : ["React", "Next.js", "Node.js", "Full Stack Architecture"],
-  funFact     : "I love turning ideas into real-world products 🚀",
-};
-```
+<table border="0" cellspacing="0" cellpadding="12">
+<tr>
+<td width="50%" valign="top">
+
+🔭 &nbsp; **Currently Building**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Full Stack projects & real-world apps
+
+🤝 &nbsp; **Open to Collaborate**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Web / App dev & AI-based projects
+
+</td>
+<td width="50%" valign="top">
+
+🌱 &nbsp; **Currently Learning**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; DSA · System Design · AI Integrations
+
+💬 &nbsp; **Ask Me About**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; React · Next.js · Node.js · Full Stack
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+⚡ **Fun fact —** I love turning ideas into real-world products 🚀 &nbsp;·&nbsp; 🎯 **Focus —** Clean code · Scalable systems · Shipping fast
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -104,14 +122,25 @@ const arshal = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamarshalrejith&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamarshalrejith&theme=dark&hide_border=true&layout=compact&langs_count=8" />
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamarshalrejith&theme=github_dark)](https://github.com/iamarshalrejith)
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iamarshalrejith&theme=github_dark)](https://github.com/iamarshalrejith)&nbsp;&nbsp;[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iamarshalrejith&theme=github_dark)](https://github.com/iamarshalrejith)
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamarshalrejith&theme=github_dark)](https://github.com/iamarshalrejith)&nbsp;&nbsp;[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iamarshalrejith&theme=github_dark&utcOffset=5.5)](https://github.com/iamarshalrejith)
 
 </div>
 
 <div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=iamarshalrejith&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=iamarshalrejith&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/iamarshalrejith)
+
+</div>
+
+## &nbsp;◈&nbsp; GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=iamarshalrejith&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1)](https://github.com/iamarshalrejith)
 
 </div>
 
