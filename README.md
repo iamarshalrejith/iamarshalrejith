@@ -4,7 +4,7 @@
 <!--                        HEADER BANNER                          -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=C9A84C&height=200&section=header&text=Arshal%20Rejith&fontSize=60&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20AI%20Integrations%20%7C%20Builder&descAlignY=58&descAlign=50&fontColor=FAF8F2&descColor=FAF8F2)
+![header](https://capsule-render.vercel.app/api?type=waving&color=C9A84C&height=200&section=header&text=Arshal%20Rejith%20S&fontSize=60&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20AI%20Integrations%20%7C%20Builder&descAlignY=58&descAlign=50&fontColor=FAF8F2&descColor=FAF8F2)
 
 </div>
 
