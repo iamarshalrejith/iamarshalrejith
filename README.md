@@ -44,18 +44,6 @@
 - Exploring **AI-powered applications**  
 - Improving depth in engineering
 
-### ⚜️ Stack
-React · Next.js · Node.js · TypeScript · AI Systems
-
----
-
-<div align="center">
-
-⚡ **Philosophy** — Clean code · Scalable thinking · Fast execution  
-🎯 **Goal** — Turn ideas into real-world products
-
-</div>
-
 ## &nbsp;◈&nbsp; Tech Stack
 
 **Languages**
