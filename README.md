@@ -136,15 +136,7 @@
 
 </div>
 
-## &nbsp;◈&nbsp; GitHub Trophies
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=iamarshalrejith&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1)](https://github.com/iamarshalrejith)
-
-</div>
-
----
 
 ## &nbsp;◈&nbsp; Contribution Graph
 
