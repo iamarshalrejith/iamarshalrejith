@@ -1,0 +1,75 @@
+<svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0D0D0D"/>
+      <stop offset="100%" style="stop-color:#1A1610"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#8B6914"/>
+      <stop offset="40%" style="stop-color:#C9A84C"/>
+      <stop offset="70%" style="stop-color:#E8C96A"/>
+      <stop offset="100%" style="stop-color:#C9A84C"/>
+    </linearGradient>
+    <linearGradient id="goldV" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#C9A84C"/>
+      <stop offset="100%" style="stop-color:#8B6914"/>
+    </linearGradient>
+    <linearGradient id="waveFade" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#C9A84C;stop-opacity:0"/>
+      <stop offset="20%" style="stop-color:#C9A84C;stop-opacity:0.15"/>
+      <stop offset="50%" style="stop-color:#C9A84C;stop-opacity:0.07"/>
+      <stop offset="80%" style="stop-color:#C9A84C;stop-opacity:0.15"/>
+      <stop offset="100%" style="stop-color:#C9A84C;stop-opacity:0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="200" fill="url(#bg)"/>
+
+  <!-- Subtle decorative wave shapes -->
+  <ellipse cx="160" cy="100" rx="220" ry="90" fill="url(#waveFade)" opacity="0.4"/>
+  <ellipse cx="640" cy="100" rx="220" ry="90" fill="url(#waveFade)" opacity="0.4"/>
+
+  <!-- Top gold border -->
+  <rect x="0" y="0" width="800" height="3" fill="url(#gold)"/>
+  <!-- Bottom gold border -->
+  <rect x="0" y="197" width="800" height="3" fill="url(#gold)"/>
+  <!-- Left gold bar -->
+  <rect x="0" y="0" width="3" height="200" fill="url(#goldV)"/>
+  <!-- Right gold bar -->
+  <rect x="797" y="0" width="3" height="200" fill="url(#goldV)"/>
+
+  <!-- Corner ornaments - top -->
+  <text x="14" y="22" font-family="serif" font-size="14" fill="#C9A84C" opacity="0.5">◈</text>
+  <text x="768" y="22" font-family="serif" font-size="14" fill="#C9A84C" opacity="0.5">◈</text>
+  <!-- Corner ornaments - bottom -->
+  <text x="14" y="194" font-family="serif" font-size="14" fill="#C9A84C" opacity="0.5">◈</text>
+  <text x="768" y="194" font-family="serif" font-size="14" fill="#C9A84C" opacity="0.5">◈</text>
+
+  <!-- Top decorative line pair -->
+  <line x1="40" y1="32" x2="760" y2="32" stroke="#C9A84C" stroke-width="0.4" opacity="0.25"/>
+  <line x1="40" y1="35" x2="760" y2="35" stroke="#C9A84C" stroke-width="0.4" opacity="0.1"/>
+
+  <!-- Small ornament row -->
+  <text x="400" y="50" text-anchor="middle" font-family="serif" font-size="10" fill="#C9A84C" opacity="0.5" letter-spacing="18">· · ◈ · ·</text>
+
+  <!-- Main Name -->
+  <text x="400" y="102" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="46" font-weight="bold" letter-spacing="10" fill="url(#gold)">ARSHAL REJITH</text>
+
+  <!-- Subtitle rule left -->
+  <line x1="60" y1="120" x2="260" y2="120" stroke="#C9A84C" stroke-width="0.6" opacity="0.4"/>
+  <!-- Subtitle rule right -->
+  <line x1="540" y1="120" x2="740" y2="120" stroke="#C9A84C" stroke-width="0.6" opacity="0.4"/>
+  <!-- Diamond center -->
+  <text x="400" y="124" text-anchor="middle" font-family="serif" font-size="9" fill="#C9A84C" opacity="0.8">◆</text>
+
+  <!-- Role line -->
+  <text x="400" y="146" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="4" fill="#A08030">FULL STACK ENGINEER</text>
+
+  <!-- Tag line -->
+  <text x="400" y="166" text-anchor="middle" font-family="Georgia, serif" font-size="9" letter-spacing="2" fill="#5A4E30" opacity="0.9">AI INTEGRATIONS  ·  BUILDER  ·  OPEN TO COLLABORATE</text>
+
+  <!-- Bottom decorative line pair -->
+  <line x1="40" y1="178" x2="760" y2="178" stroke="#C9A84C" stroke-width="0.4" opacity="0.1"/>
+  <line x1="40" y1="181" x2="760" y2="181" stroke="#C9A84C" stroke-width="0.4" opacity="0.25"/>
+</svg>
