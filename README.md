@@ -23,40 +23,34 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=iamarshalrejith&style=flat-square&color=C9A84C&label=profile+views)
 
 </div>
-
 ---
+## ◈ About Me
 
-## &nbsp;◈&nbsp; About Me
+<p align="center">
+  <i>Building scalable products, not just projects.</i>
+</p>
 
-<table border="0" cellspacing="0" cellpadding="12">
-<tr>
-<td width="50%" valign="top">
+<br>
 
-🔭 &nbsp; **Currently Building**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Full Stack projects & real-world apps
+- 🚀 **What I Do**  
+  I design and build full stack applications with a strong focus on performance, scalability, and real-world usability.
 
-🤝 &nbsp; **Open to Collaborate**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Web / App dev & AI-based projects
+- 🧠 **Current Focus**  
+  Deep diving into **System Design**, **DSA**, and **AI-powered applications** to build smarter systems.
 
-</td>
-<td width="50%" valign="top">
+- 🤝 **Collaboration**  
+  Open to working on impactful **web platforms**, **mobile apps**, and **AI-driven products**.
 
-🌱 &nbsp; **Currently Learning**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; DSA · System Design · AI Integrations
+- 💬 **Core Stack**  
+  React · Next.js · Node.js · TypeScript · AI Integrations
 
-💬 &nbsp; **Ask Me About**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; React · Next.js · Node.js · Full Stack
+<br>
 
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-
-⚡ **Fun fact —** I love turning ideas into real-world products 🚀 &nbsp;·&nbsp; 🎯 **Focus —** Clean code · Scalable systems · Shipping fast
-
-</td>
-</tr>
-</table>
+<p align="center">
+  ⚡ <b>Philosophy</b> — Clean code, scalable thinking, fast execution  
+  <br>
+  🎯 <b>Goal</b> — Turn ideas into production-ready products
+</p>
 
 ---
 
