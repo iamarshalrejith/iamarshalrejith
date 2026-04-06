@@ -1,6 +1,18 @@
 <div align="center">
-  <img src="./hero.svg" width="100%" alt="Arshal Rejith" />
+  <img src="./header.svg" width="100%" alt="Arshal Rejith" />
 </div>
+
+```ts
+const arshal = {
+  role        : "Full Stack Engineer",
+  focus       : ["Clean Code", "Scalable Systems", "Shipping Products"],
+  currentWork : "Full Stack projects & real-world applications",
+  learning    : ["Data Structures & Algorithms", "System Design", "AI Integrations"],
+  collaborate : ["Web / App Development", "AI-based Projects"],
+  askMeAbout  : ["React", "Next.js", "Node.js", "Full Stack Architecture"],
+  funFact     : "I love turning ideas into real-world products 🚀",
+};
+```
 
 <div align="center">
 
@@ -108,4 +120,8 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
+</div>
+
+<div align="center">
+  <img src="./footer.svg" width="100%" alt="Arshal Rejith" />
 </div>
