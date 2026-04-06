@@ -10,7 +10,7 @@ const arshal = {
   learning    : ["Data Structures & Algorithms", "System Design", "AI Integrations"],
   collaborate : ["Web / App Development", "AI-based Projects"],
   askMeAbout  : ["React", "Next.js", "Node.js", "Full Stack Architecture"],
-  funFact     : "I love turning ideas into real-world products 🚀",
+  funFact     : "I love turning ideas into real-world products ",
 };
 ```
 
