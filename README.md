@@ -150,6 +150,9 @@ An AI-powered hospitality concierge using RAG and multi-agent orchestration — 
 <code>ChromaDB</code>
 </p>
 
+<p> • 
+<a href="https://github.com/iamarshalrejith/StayAI">Repo</a>
+</p>
 <br />
 </td>
 </tr>
