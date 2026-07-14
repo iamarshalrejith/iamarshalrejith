@@ -3,7 +3,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:4338ca,100:6366f1&height=250&section=header&text=Arshal%20Rejith%20S&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20Developer%20•%20SaaS%20Builder%20•%20AI%2FML%20Engineer&descAlignY=52&descSize=18"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=6366F1&center=true&vCenter=true&width=750&separator=;&lines=%F0%9F%91%8B+Welcome+to+my+GitHub+Universe;%F0%9F%8E%93+Final+Year+CS+Undergrad+%40+Shiv+Nadar+University;%F0%9F%9A%80+Sole+Developer+of+WedCraft+%E2%80%94+a+Live+SaaS+Product;%F0%9F%A4%96+Building+with+AI%2C+RAG+%26+Full+Stack+Systems;%F0%9F%92%A1+I+Ship.+I+Market.+I+Iterate." alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=6366F1&center=true&vCenter=true&width=750&separator=%3B&lines=Welcome+to+my+GitHub+Universe%3BFinal+Year+CS+Undergrad+%40+Shiv+Nadar+University%3BSole+Developer+of+WedCraft+%E2%80%94+a+Live+SaaS+Product%3BBuilding+with+AI%2C+RAG+%26+Full+Stack+Systems%3BI+Ship.+I+Market.+I+Iterate."
+    alt="Typing SVG"
+  />
 </a>
 
 <br/><br/>
@@ -26,7 +29,7 @@
 
 ```yaml
 name:            Arshal Rejith S
-role:            Full Stack Developer | Software Engineer
+role:            Software Engineer | Full Stack Developer
 education:       B.Tech CSE (IoT Specialization) — Shiv Nadar University, Chennai
 graduation:      May 2027
 location:        Chennai, India — open to Bangalore & Remote
@@ -40,9 +43,9 @@ experience:
   - ML Intern @ Infosys Springboard — built StayAI, a RAG-powered hospitality assistant
 
 mindset: >
-  I don't just write code — I design it, ship it, market it, and own the
-  outcome. WedCraft went from an idea to a paying-customer SaaS product,
-  end to end, solo.
+  Any fool can write code that a computer can understand.
+  Good programmers write code that humans can understand.
+  — Martin Fowler
 
 currently:
   - Sharpening DSA + system design fundamentals
@@ -56,53 +59,97 @@ currently:
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 💍 [WedCraft](https://wedcraft.in)
-**Full-stack SaaS · Live in production**
+<h3><a href="https://wedcraft.in">WedCraft</a></h3>
 
+<strong>Full-stack SaaS · Live in production</strong>
+
+<p>
 Solo-built platform for customizable digital wedding invitations — 23+ templates, subscription monetization, Razorpay payments with HMAC verification, Google OAuth, RSVP tracking, QR codes, and an admin dashboard.
+</p>
 
-`Next.js 15` `TypeScript` `MongoDB Atlas` `Razorpay` `Cloudinary`
+<p>
+<code>Next.js 15</code>
+<code>TypeScript</code>
+<code>MongoDB Atlas</code>
+<code>Razorpay</code>
+<code>Cloudinary</code>
+</p>
 
-[🔗 Live Site](https://wedcraft.in) · [📦 Repo](https://github.com/iamarshalrejith/WedCraft)
-
+<p>
+<a href="https://wedcraft.in">🔗 Live Site</a> ·
+<a href="https://github.com/iamarshalrejith/WedCraft">📦 Repo</a>
+</p>
+<br />
 </td>
-<td width="50%">
 
-### 🌐 [GoOrbit](https://github.com/iamarshalrejith/GoOrbit)
-**Distributed Systems**
+<td width="50%" valign="top">
 
+<h3><a href="https://github.com/iamarshalrejith/GoOrbit">GoOrbit</a></h3>
+
+<strong>Distributed Systems</strong>
+
+<p>
 A decentralized peer-to-peer file storage system with custom TCP transport, peer discovery, content-addressable storage, AES encryption, and concurrent networking via goroutines & channels.
+</p>
 
-`Go` `TCP Networking` `P2P Systems` `AES Encryption`
+<p>
+<code>Go</code>
+<code>TCP Networking</code>
+<code>P2P Systems</code>
+<code>AES Encryption</code>
+</p>
 
-[📦 Repo](https://github.com/iamarshalrejith/GoOrbit)
-
+<p>
+<a href="https://github.com/iamarshalrejith/GoOrbit">📦 Repo</a>
+</p>
+<br />
 </td>
 </tr>
+
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🧩 [DownX](https://github.com/iamarshalrejith/DownX)
-**AI for Accessibility**
+<h3><a href="https://github.com/iamarshalrejith/DownX">DownX</a></h3>
 
+<strong>AI for Accessibility</strong>
+
+<p>
 An AI-powered inclusive learning platform for students with Down syndrome — Gemini API for adaptive content, MediaPipe + TensorFlow.js for real-time gesture interaction, and WCAG-compliant design.
+</p>
 
-`MERN` `Gemini API` `TensorFlow.js` `MediaPipe`
+<p>
+<code>MERN</code>
+<code>Gemini API</code>
+<code>TensorFlow.js</code>
+<code>MediaPipe</code>
+</p>
 
-[📦 Repo](https://github.com/iamarshalrejith/DownX)
-
+<p>
+<a href="https://github.com/iamarshalrejith/DownX">📦 Repo</a>
+</p>
+<br />
 </td>
-<td width="50%">
 
-### 🏨 StayAI
-**RAG + Multi-Agent Systems** · Infosys Springboard
+<td width="50%" valign="top">
 
+<h3>StayAI</h3>
+
+<strong>RAG + Multi-Agent Systems</strong> · Infosys Springboard
+
+<p>
 An AI-powered hospitality concierge using RAG and multi-agent orchestration — cut query resolution time by 35% with 90%+ accuracy in testing, served via FastAPI + Streamlit.
+</p>
 
-`LangChain` `CrewAI` `Groq` `ChromaDB`
+<p>
+<code>LangChain</code>
+<code>CrewAI</code>
+<code>Groq</code>
+<code>ChromaDB</code>
+</p>
 
+<br />
 </td>
 </tr>
 </table>
@@ -188,20 +235,11 @@ An AI-powered hospitality concierge using RAG and multi-agent orchestration — 
 
 <br/>
 
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=iamarshalrejith&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"/>
-</div>
-
-<br/>
-
 ## 🐍 Contribution Snake
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/iamarshalrejith/iamarshalrejith/output/github-contribution-grid-snake-dark.svg"/>
 <br/>
-<sub>Auto-generated via GitHub Actions — see setup note below</sub>
 </div>
 
 <br/>
@@ -232,8 +270,6 @@ An AI-powered hospitality concierge using RAG and multi-agent orchestration — 
 <a href="mailto:iamarshalrejith@gmail.com"><img src="https://img.shields.io/badge/-iamarshalrejith-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 
 <br/><br/>
-
-*"Talk is cheap. Show me the code."* — Linus Torvalds
 
 </div>
 
