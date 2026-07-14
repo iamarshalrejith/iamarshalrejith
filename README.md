@@ -77,9 +77,9 @@ Solo-built platform for customizable digital wedding invitations — 23+ templat
 <code>Cloudinary</code>
 </p>
 
-<p>
-<a href="https://wedcraft.in">🔗 Live Site</a> ·
-<a href="https://github.com/iamarshalrejith/WedCraft">📦 Repo</a>
+<p>🔗
+<a href="https://wedcraft.in"> Live Site</a> •
+<a href="https://github.com/iamarshalrejith/WedCraft">Repo</a>
 </p>
 <br />
 </td>
@@ -101,8 +101,8 @@ A decentralized peer-to-peer file storage system with custom TCP transport, peer
 <code>AES Encryption</code>
 </p>
 
-<p>
-<a href="https://github.com/iamarshalrejith/GoOrbit">📦 Repo</a>
+<p>• 
+<a href="https://github.com/iamarshalrejith/GoOrbit">Repo</a>
 </p>
 <br />
 </td>
@@ -126,15 +126,16 @@ An AI-powered inclusive learning platform for students with Down syndrome — Ge
 <code>MediaPipe</code>
 </p>
 
-<p>
-<a href="https://github.com/iamarshalrejith/DownX">📦 Repo</a>
+<p> • 
+<a href="https://github.com/iamarshalrejith/DownX">Repo</a>
 </p>
 <br />
 </td>
 
 <td width="50%" valign="top">
 
-<h3>StayAI</h3>
+<a href="https://github.com/iamarshalrejith/StayAI">
+<h3><a href="https://github.com/iamarshalrejith/StayAI">StayAI</a></h3>
 
 <strong>RAG + Multi-Agent Systems</strong> · Infosys Springboard
 
@@ -219,11 +220,6 @@ An AI-powered hospitality concierge using RAG and multi-agent orchestration — 
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=iamarshalrejith&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&ring=6366F1&text_color=c9d1d9&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamarshalrejith&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=c9d1d9"/>
-
-<br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamarshalrejith&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1"/>
 
