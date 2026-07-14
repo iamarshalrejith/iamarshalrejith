@@ -199,7 +199,7 @@ An AI-powered hospitality concierge using RAG and multi-agent orchestration — 
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/iamarshalrejith/iamarshalrejith/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/iamarshalrejith/iamarshalrejith/output/github-contribution-grid-snake-dark.svg"/>
 <br/>
 <sub>Auto-generated via GitHub Actions — see setup note below</sub>
 </div>
