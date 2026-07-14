@@ -1,127 +1,240 @@
 <div align="center">
-  <img src="./header.svg" width="100%" alt="Arshal Rejith" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:4338ca,100:6366f1&height=250&section=header&text=Arshal%20Rejith%20S&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20Developer%20•%20SaaS%20Builder%20•%20AI%2FML%20Engineer&descAlignY=52&descSize=18"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=6366F1&center=true&vCenter=true&width=750&separator=;&lines=%F0%9F%91%8B+Welcome+to+my+GitHub+Universe;%F0%9F%8E%93+Final+Year+CS+Undergrad+%40+Shiv+Nadar+University;%F0%9F%9A%80+Sole+Developer+of+WedCraft+%E2%80%94+a+Live+SaaS+Product;%F0%9F%A4%96+Building+with+AI%2C+RAG+%26+Full+Stack+Systems;%F0%9F%92%A1+I+Ship.+I+Market.+I+Iterate." alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/arshal-rejith17/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://leetcode.com/u/arshalrejith/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="mailto:iamarshalrejith@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://wedcraft.in"><img src="https://img.shields.io/badge/WedCraft-Live%20Product-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=iamarshalrejith&label=Profile%20Views&color=6366f1&style=flat-square"/>
+<img src="https://img.shields.io/github/followers/iamarshalrejith?label=Followers&style=flat-square&color=6366f1"/>
+
 </div>
 
-```ts
-const arshal = {
-  role        : "Full Stack Engineer",
-  focus       : ["Clean Code", "Scalable Systems", "Shipping Products"],
-  currentWork : "Full Stack projects & real-world applications",
-  learning    : ["Data Structures & Algorithms", "AI Integrations"],
-  collaborate : ["Web / App Development", "AI-based Projects"],
-  askMeAbout  : ["React", "Next.js", "Node.js", "Full Stack Architecture"],
-  funFact     : "I love turning ideas into real-world products ",
-};
+<br/>
+
+## 🧑‍💻 About Me
+
+```yaml
+name:            Arshal Rejith S
+role:            Full Stack Developer | Software Engineer
+education:       B.Tech CSE (IoT Specialization) — Shiv Nadar University, Chennai
+graduation:      May 2027
+location:        Chennai, India — open to Bangalore & Remote
+
+shipped:
+  - WedCraft (wedcraft.in) — solo-built, live SaaS for digital wedding invitations
+  - GoOrbit — decentralized peer-to-peer file storage system, built in Go
+  - DownX — AI-powered inclusive learning platform for students with Down syndrome
+
+experience:
+  - ML Intern @ Infosys Springboard — built StayAI, a RAG-powered hospitality assistant
+
+mindset: >
+  I don't just write code — I design it, ship it, market it, and own the
+  outcome. WedCraft went from an idea to a paying-customer SaaS product,
+  end to end, solo.
+
+currently:
+  - Sharpening DSA + system design fundamentals
+  - Exploring distributed systems & Go
+  - Deepening RAG / multi-agent AI architectures
 ```
 
+<br/>
+
+## 🚀 Featured Work
+
+<table>
+<tr>
+<td width="50%">
+
+### 💍 [WedCraft](https://wedcraft.in)
+**Full-stack SaaS · Live in production**
+
+Solo-built platform for customizable digital wedding invitations — 23+ templates, subscription monetization, Razorpay payments with HMAC verification, Google OAuth, RSVP tracking, QR codes, and an admin dashboard.
+
+`Next.js 15` `TypeScript` `MongoDB Atlas` `Razorpay` `Cloudinary`
+
+[🔗 Live Site](https://wedcraft.in) · [📦 Repo](https://github.com/iamarshalrejith/WedCraft)
+
+</td>
+<td width="50%">
+
+### 🌐 [GoOrbit](https://github.com/iamarshalrejith/GoOrbit)
+**Distributed Systems**
+
+A decentralized peer-to-peer file storage system with custom TCP transport, peer discovery, content-addressable storage, AES encryption, and concurrent networking via goroutines & channels.
+
+`Go` `TCP Networking` `P2P Systems` `AES Encryption`
+
+[📦 Repo](https://github.com/iamarshalrejith/GoOrbit)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🧩 [DownX](https://github.com/iamarshalrejith/DownX)
+**AI for Accessibility**
+
+An AI-powered inclusive learning platform for students with Down syndrome — Gemini API for adaptive content, MediaPipe + TensorFlow.js for real-time gesture interaction, and WCAG-compliant design.
+
+`MERN` `Gemini API` `TensorFlow.js` `MediaPipe`
+
+[📦 Repo](https://github.com/iamarshalrejith/DownX)
+
+</td>
+<td width="50%">
+
+### 🏨 StayAI
+**RAG + Multi-Agent Systems** · Infosys Springboard
+
+An AI-powered hospitality concierge using RAG and multi-agent orchestration — cut query resolution time by 35% with 90%+ accuracy in testing, served via FastAPI + Streamlit.
+
+`LangChain` `CrewAI` `Groq` `ChromaDB`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🛠️ Tech Stack
+
 <div align="center">
-
-[![Email](https://img.shields.io/badge/iamarshalrejith%40gmail.com-0D0D0D?style=flat-square&logo=gmail&logoColor=C9A84C)](mailto:iamarshalrejith@gmail.com)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/github-iamarshalrejith-0D0D0D?style=flat-square&logo=github&logoColor=white)](https://github.com/iamarshalrejith)
-&nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=iamarshalrejith&style=flat-square&color=C9A84C&label=profile+views)
-
-</div>
-
----
-
-## &nbsp;◈&nbsp; Tech Stack
 
 **Languages**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+<br/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
 
 **Frontend**
+<br/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white"/>
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black"/>
 
-![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232a?style=flat-square&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593d88?style=flat-square&logo=redux&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink?style=flat-square&logo=SASS&logoColor=white)
+**Backend & APIs**
+<br/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_APIs-25D366?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
 
-**Backend**
+**Databases**
+<br/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/ChromaDB-6366F1?style=flat-square&logo=databricks&logoColor=white"/>
 
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404d59?style=flat-square&logo=express&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+**AI / ML**
+<br/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/CrewAI-FF6F61?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow.js-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG_Pipelines-6366F1?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
 
-**Databases & BaaS**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white)
-![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=flat-square&logo=appwrite&logoColor=white)
-
-**AI / Data Science**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
-**Tools & DevOps**
-
-![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-000000?style=flat-square&logo=netlify&logoColor=00C7B7)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat-square&logo=eslint&logoColor=white)
-
----
-
-## &nbsp;◈&nbsp; GitHub Stats
-
-<div align="center">
-
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamarshalrejith&theme=github_dark)](https://github.com/iamarshalrejith)
-
-[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iamarshalrejith&theme=github_dark)](https://github.com/iamarshalrejith)&nbsp;&nbsp;[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iamarshalrejith&theme=github_dark)](https://github.com/iamarshalrejith)
-
-[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamarshalrejith&theme=github_dark)](https://github.com/iamarshalrejith)&nbsp;&nbsp;[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iamarshalrejith&theme=github_dark&utcOffset=5.5)](https://github.com/iamarshalrejith)
+**Tools & Platforms**
+<br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white"/>
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white"/>
 
 </div>
 
-<div align="center">
+<br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=iamarshalrejith&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/iamarshalrejith)
-
-</div>
-
----
-
-## &nbsp;◈&nbsp; Contribution Graph
+## 📊 GitHub Analytics
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iamarshalrejith&theme=github-compact&hide_border=true&area=true)](https://github.com/iamarshalrejith)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=iamarshalrejith&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&ring=6366F1&text_color=c9d1d9&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamarshalrejith&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=c9d1d9"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iamarshalrejith&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamarshalrejith&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=ffffff"/>
 
 </div>
 
----
+<br/>
 
-## &nbsp;◈&nbsp; Dev Quote
+## 🏆 Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=iamarshalrejith&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"/>
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/iamarshalrejith/iamarshalrejith/output/github-contribution-grid-snake.svg"/>
+<br/>
+<sub>Auto-generated via GitHub Actions — see setup note below</sub>
+</div>
+
+<br/>
+
+## 💬 Dev Quote
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</div>
+
+<br/>
+
+## 🎓 Education & Certifications
+
+- **B.Tech Computer Science Engineering — IoT Specialization**, Shiv Nadar University, Chennai *(Aug 2023 – May 2027)*
+- NPTEL Affective Computing — Gold Badge
+- NPTEL Programming in Java — Gold Badge
+- Infosys Springboard Machine Learning Program
+
+<br/>
+
+## 🌐 Let's Connect
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+<a href="https://www.linkedin.com/in/arshal-rejith17/"><img src="https://img.shields.io/badge/-Arshal%20Rejith-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://leetcode.com/u/arshalrejith/"><img src="https://img.shields.io/badge/-arshalrejith-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
+<a href="mailto:iamarshalrejith@gmail.com"><img src="https://img.shields.io/badge/-iamarshalrejith-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+
+<br/><br/>
+
+*"Talk is cheap. Show me the code."* — Linus Torvalds
 
 </div>
 
-<div align="center">
-  <img src="./footer.svg" width="100%" alt="Arshal Rejith" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0f172a&height=150&section=footer"/>
