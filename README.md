@@ -25,7 +25,7 @@
 
 <br/>
 
-## 🧑‍💻 About Me
+## About Me
 
 ```yaml
 name:            Arshal Rejith S
@@ -55,7 +55,7 @@ currently:
 
 <br/>
 
-## 🚀 Featured Work
+## Featured Work
 
 <table>
 <tr>
@@ -160,7 +160,7 @@ An AI-powered hospitality concierge using RAG and multi-agent orchestration — 
 
 <br/>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -219,7 +219,7 @@ An AI-powered hospitality concierge using RAG and multi-agent orchestration — 
 
 <br/>
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -233,7 +233,7 @@ An AI-powered hospitality concierge using RAG and multi-agent orchestration — 
 
 <br/>
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/iamarshalrejith/iamarshalrejith/output/github-contribution-grid-snake-dark.svg"/>
@@ -242,7 +242,7 @@ An AI-powered hospitality concierge using RAG and multi-agent orchestration — 
 
 <br/>
 
-## 💬 Dev Quote
+## Dev Quote
 
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
@@ -250,7 +250,7 @@ An AI-powered hospitality concierge using RAG and multi-agent orchestration — 
 
 <br/>
 
-## 🎓 Education & Certifications
+## Education & Certifications
 
 - **B.Tech Computer Science Engineering — IoT Specialization**, Shiv Nadar University, Chennai *(Aug 2023 – May 2027)*
 - NPTEL Affective Computing — Gold Badge
@@ -259,7 +259,7 @@ An AI-powered hospitality concierge using RAG and multi-agent orchestration — 
 
 <br/>
 
-## 🌐 Let's Connect
+## Let's Connect
 
 <div align="center">
 
