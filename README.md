@@ -222,14 +222,20 @@ An AI-powered hospitality concierge using RAG and multi-agent orchestration — 
 ## GitHub Analytics
 
 <div align="center">
+  
+<img
+  src="https://github-readme-stats.shion.dev/api?username=iamarshalrejith&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=ffffff"
+  alt="GitHub Stats"
+/>
+
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamarshalrejith&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1"/>
 
-<br/><br/>
+<br/>
 
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=iamarshalrejith&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=ffffff&layout=compact"/>
 
-<br/><br/>
+<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamarshalrejith&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=ffffff"/>
 
