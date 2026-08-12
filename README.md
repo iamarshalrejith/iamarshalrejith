@@ -31,7 +31,7 @@
 name:            Arshal Rejith S
 role:            Software Engineer | Full Stack Developer
 education:       B.Tech CSE (IoT Specialization) — Shiv Nadar University, Chennai
-graduation:      May 2027
+graduation:      July 2027 (Expected)
 location:        Chennai, India — open to Bangalore & Remote
 
 shipped:
