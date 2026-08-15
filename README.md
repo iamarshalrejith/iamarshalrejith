@@ -121,7 +121,6 @@ An AI-powered inclusive learning platform for students with Down syndrome — Ge
 
 <p>
 <code>MERN</code>
-<code>Gemini API</code>
 <code>TensorFlow.js</code>
 <code>MediaPipe</code>
 </p>
