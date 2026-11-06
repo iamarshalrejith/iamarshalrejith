@@ -236,7 +236,11 @@ An AI-powered hospitality concierge using RAG and multi-agent orchestration — 
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamarshalrejith&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=ffffff"/>
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+
+</div>
 
 </div>
 
