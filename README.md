@@ -48,7 +48,7 @@ mindset: >
                                           — Martin Fowler
 
 currently:
-  - Sharpening DSA + system design fundamentals
+  - Sharpening DSA and system design fundamentals
   - Exploring distributed systems & Go
   - Deepening RAG / multi-agent AI architectures
 ```
