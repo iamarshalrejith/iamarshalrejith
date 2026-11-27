@@ -28,29 +28,35 @@
 ## About Me
 
 ```yaml
-name:            Arshal Rejith S
-role:            Software Engineer | Full Stack Developer
-education:       B.Tech CSE (IoT Specialization) — Shiv Nadar University, Chennai
-graduation:      July 2027 (Expected)
-location:        Chennai, India — open to Bangalore & Remote
+name: Arshal Rejith S
+role: Software Engineer | Full Stack Developer | AI Engineer
 
-shipped:
-  - WedCraft (wedcraft.in) — solo-built, live SaaS for digital wedding invitations
-  - GoOrbit — decentralized peer-to-peer file storage system, built in Go
-  - DownX — AI-powered inclusive learning platform for students with Down syndrome
+education: B.Tech CSE (IoT) @ Shiv Nadar University, Chennai
+graduation: 2027
+location: Chennai, India | Open to opportunities
 
-experience:
-  - ML Intern @ Infosys Springboard — built StayAI, a RAG-powered hospitality assistant
+what_i_do:
+  - Build and ship full-stack products from idea to production
+  - Design backend systems, APIs, and distributed applications
+  - Explore practical applications of Generative AI and RAG
+  - Turn real-world problems into usable software
+
+featured_work:
+  - WedCraft: Independently built and launched a SaaS product
+  - GoOrbit: Built a peer-to-peer file storage system in Go
+  - DownX: Developed an AI-powered inclusive learning platform
+  - StayAI: Built a RAG-powered hospitality assistant during my internship
+
+currently_exploring:
+  - Distributed Systems & System Design
+  - Go and Backend Engineering
+  - LLM Applications, RAG & Agentic Workflows
+  - Building scalable software products
 
 mindset: >
-  Any fool can write code that a computer can understand.
-  Good programmers write code that humans can understand.
-                                          — Martin Fowler
-
-currently:
-  - Sharpening DSA and system design fundamentals
-  - Exploring distributed systems & Go
-  - Deepening RAG / multi-agent AI architectures
+  I enjoy understanding how things work under the hood,
+  building things from scratch, and shipping software
+  that solves actual problems.
 ```
 
 <br/>
