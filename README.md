@@ -61,107 +61,177 @@ mindset: >
 
 <br/>
 
-## Featured Work
+
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3><a href="https://wedcraft.in">WedCraft</a></h3>
+<h3>
+  <a href="https://wedcraft.in">💍 WedCraft</a>
+</h3>
 
-<strong>Full-stack SaaS · Live in production</strong>
-
-<p>
-Solo-built platform for customizable digital wedding invitations — 23+ templates, subscription monetization, Razorpay payments with HMAC verification, Google OAuth, RSVP tracking, QR codes, and an admin dashboard.
-</p>
+<strong>Production SaaS · Solo Developer</strong>
 
 <p>
-<code>Next.js 15</code>
-<code>TypeScript</code>
-<code>MongoDB Atlas</code>
-<code>Razorpay</code>
-<code>Cloudinary</code>
+  Built and launched a full-stack wedding invitation SaaS platform,
+  enabling users to create personalized digital invitations,
+  manage RSVPs, and handle payments.
 </p>
 
-<p>🔗
-<a href="https://wedcraft.in"> Live Site</a> •
-<a href="https://github.com/iamarshalrejith/WedCraft">Repo</a>
+<strong>Key Engineering Work</strong>
+<ul>
+  <li>Designed and developed 23+ customizable invitation templates.</li>
+  <li>Implemented JWT authentication and Google OAuth.</li>
+  <li>Integrated Razorpay payments with HMAC signature verification.</li>
+  <li>Built RSVP management, QR codes, and an admin dashboard.</li>
+  <li>Developed subscription-based monetization workflows.</li>
+</ul>
+
+<strong>Tech Stack</strong>
+<p>
+  <code>Next.js 15</code>
+  <code>TypeScript</code>
+  <code>MongoDB</code>
+  <code>Razorpay</code>
+  <code>Cloudinary</code>
 </p>
-<br />
+
+<p>
+  <a href="https://wedcraft.in">🌐 Live Product</a> •
+  <a href="https://github.com/iamarshalrejith/WedCraft">📂 Source Code</a>
+</p>
+
 </td>
 
 <td width="50%" valign="top">
 
-<h3><a href="https://github.com/iamarshalrejith/GoOrbit">GoOrbit</a></h3>
+<h3>
+  <a href="https://github.com/iamarshalrejith/GoOrbit">🌐 GoOrbit</a>
+</h3>
 
-<strong>Distributed Systems</strong>
-
-<p>
-A decentralized peer-to-peer file storage system with custom TCP transport, peer discovery, content-addressable storage, AES encryption, and concurrent networking via goroutines & channels.
-</p>
+<strong>Distributed Systems · Peer-to-Peer Storage</strong>
 
 <p>
-<code>Go</code>
-<code>TCP Networking</code>
-<code>P2P Systems</code>
-<code>AES Encryption</code>
+  Engineered a decentralized peer-to-peer file storage system
+  in Go, focusing on network communication, concurrent execution,
+  content-addressable storage, and secure file handling.
 </p>
 
-<p>• 
-<a href="https://github.com/iamarshalrejith/GoOrbit">Repo</a>
+<strong>Key Engineering Work</strong>
+<ul>
+  <li>Implemented custom TCP-based peer communication.</li>
+  <li>Built peer discovery and RPC-based communication.</li>
+  <li>Designed content-addressable storage using SHA-1 hashing.</li>
+  <li>Used goroutines, channels, and mutexes for concurrency.</li>
+  <li>Integrated AES-CTR encryption for file protection.</li>
+</ul>
+
+<strong>Tech Stack</strong>
+<p>
+  <code>Go</code>
+  <code>TCP</code>
+  <code>RPC</code>
+  <code>Goroutines</code>
+  <code>AES</code>
 </p>
-<br />
+
+<p>
+  <a href="https://github.com/iamarshalrejith/GoOrbit">📂 Source Code</a>
+</p>
+
 </td>
 </tr>
 
 <tr>
 <td width="50%" valign="top">
 
-<h3><a href="https://github.com/iamarshalrejith/DownX">DownX</a></h3>
+<h3>
+  <a href="https://github.com/iamarshalrejith/StayAI">🤖 StayAI</a>
+</h3>
 
-<strong>AI for Accessibility</strong>
-
-<p>
-An AI-powered inclusive learning platform for students with Down syndrome — Gemini API for adaptive content, MediaPipe + TensorFlow.js for real-time gesture interaction, and WCAG-compliant design.
-</p>
+<strong>AI Engineering · Infosys Springboard Internship</strong>
 
 <p>
-<code>MERN</code>
-<code>TensorFlow.js</code>
-<code>MediaPipe</code>
+  Developed an AI-powered hospitality assistant that answers
+  guest queries using Retrieval-Augmented Generation (RAG)
+  and multi-agent orchestration.
 </p>
 
-<p> • 
-<a href="https://github.com/iamarshalrejith/DownX">Repo</a>
+<strong>Key Engineering Work</strong>
+<ul>
+  <li>Implemented document-based knowledge retrieval using RAG.</li>
+  <li>Built multi-agent workflows using CrewAI.</li>
+  <li>Integrated LangChain and Groq for LLM-powered responses.</li>
+  <li>Used ChromaDB for vector-based knowledge retrieval.</li>
+  <li>Developed API and interactive application layers.</li>
+</ul>
+
+<strong>Results</strong>
+<p>
+  Reported 35% reduction in query resolution time and
+  90%+ accuracy in testing.
 </p>
-<br />
+
+<strong>Tech Stack</strong>
+<p>
+  <code>Python</code>
+  <code>LangChain</code>
+  <code>CrewAI</code>
+  <code>Groq</code>
+  <code>ChromaDB</code>
+  <code>FastAPI</code>
+</p>
+
+<p>
+  <a href="https://github.com/iamarshalrejith/StayAI">📂 Source Code</a>
+</p>
+
 </td>
 
 <td width="50%" valign="top">
 
-<a href="https://github.com/iamarshalrejith/StayAI">
-<h3><a href="https://github.com/iamarshalrejith/StayAI">StayAI</a></h3>
+<h3>
+  <a href="https://github.com/iamarshalrejith/DownX">♿ DownX</a>
+</h3>
 
-<strong>RAG + Multi-Agent Systems</strong> · Infosys Springboard
-
-<p>
-An AI-powered hospitality concierge using RAG and multi-agent orchestration — cut query resolution time by 35% with 90%+ accuracy in testing, served via FastAPI + Streamlit.
-</p>
+<strong>AI for Accessibility · Inclusive Learning</strong>
 
 <p>
-<code>LangChain</code>
-<code>CrewAI</code>
-<code>Groq</code>
-<code>ChromaDB</code>
+  Developed an AI-powered inclusive learning platform
+  designed for students with Down syndrome, combining
+  adaptive learning experiences with real-time gesture interaction.
 </p>
 
-<p> • 
-<a href="https://github.com/iamarshalrejith/StayAI">Repo</a>
+<strong>Key Engineering Work</strong>
+<ul>
+  <li>Integrated Gemini API for AI-powered adaptive content.</li>
+  <li>Implemented real-time gesture interaction using MediaPipe.</li>
+  <li>Used TensorFlow.js for browser-based machine learning.</li>
+  <li>Developed interactive full-stack application workflows.</li>
+  <li>Focused on accessible, WCAG-compliant interface design.</li>
+</ul>
+
+<strong>Tech Stack</strong>
+<p>
+  <code>MongoDB</code>
+  <code>Express</code>
+  <code>React</code>
+  <code>Node.js</code>
+  <code>MediaPipe</code>
+  <code>TensorFlow.js</code>
+  <code>Gemini API</code>
 </p>
-<br />
+
+<p>
+  <a href="https://github.com/iamarshalrejith/DownX">📂 Source Code</a>
+</p>
+
 </td>
 </tr>
 </table>
+
 
 <br/>
 
